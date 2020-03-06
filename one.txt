@@ -2,3 +2,4 @@ a file named one.
 add one line.
 test pull for primary project.
 test fetch and merge for primary project.
+test submodule update.
