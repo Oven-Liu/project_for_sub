@@ -1,3 +1,4 @@
 a file named one.
 add one line.
-test fetch for primary project.
+test pull for primary project.
+test fetch and merge for primary project.
